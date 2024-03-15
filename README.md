@@ -1,4 +1,4 @@
-Final project for CSE 310 Data Structures and Algorithms
+Final project for CSE 310 Data Structures and Algorithms. Full project spec is in pj3-description.pdf
 
 Uses Stack and Heap data structures to implement common pathfinding algorithms
 on weighted and unweighted graphs.
