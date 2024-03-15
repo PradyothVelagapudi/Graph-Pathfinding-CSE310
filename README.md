@@ -5,8 +5,8 @@ on weighted and unweighted graphs.
 
 Usage: `./PJ3 <InputFile> <GraphType> <Flag>`
 where
-- <GraphType> = "DirectedGraph" or "UndirectedGraph"
-- <Flag> = 1 to place new nodes at front of adjacency lists, 2 to place at rear
+- GraphType = "DirectedGraph" or "UndirectedGraph"
+- Flag = 1 to place new nodes at front of adjacency lists, 2 to place at rear
 
 Format of input file:
 The first line contains two positive
