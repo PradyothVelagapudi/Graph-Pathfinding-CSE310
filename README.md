@@ -3,7 +3,7 @@ Final project for CSE 310 Data Structures and Algorithms. Full project spec is i
 Uses Stack and Heap data structures to implement common pathfinding algorithms
 on weighted and unweighted graphs.
 
-Usage: ./PJ3 <InputFile> <GraphType> <Flag>
+Usage: `./PJ3 <InputFile> <GraphType> <Flag>`
 <GraphType> = "DirectedGraph" or "UndirectedGraph"
 <Flag> = 1 to place new nodes at front of adjacency lists, 2 to place at rear
 Format of input file:
